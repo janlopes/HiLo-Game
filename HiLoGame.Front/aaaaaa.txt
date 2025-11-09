@@ -1,0 +1,8 @@
+// Project: hilo-frontend
+// Minimal React + Vite + TS app to consume your HiLo backend (HTTP + SignalR)
+// Files are denoted with comments like: // FILE: <path>
+
+
+
+
+
