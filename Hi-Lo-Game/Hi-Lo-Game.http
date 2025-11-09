@@ -1,0 +1,6 @@
+@Hi_Lo_Game_HostAddress = http://localhost:5114
+
+GET {{Hi_Lo_Game_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
