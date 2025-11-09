@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame.Infrastructure", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame.Tests.Unit", "HiLoGame.Tests.Unit\HiLoGame.Tests.Unit.csproj", "{E8EEE1A7-251B-4DBC-B5C1-7552352DB745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame.Api", "Hi-Lo-Game\HiLoGame.Api.csproj", "{4FF8E2F2-6CD4-4026-626D-EF84B546B725}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiLoGame.Api", "HiLoGame.Api\HiLoGame.Api.csproj", "{3A0E319A-7720-17DC-6016-9B92E348B3A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{E8EEE1A7-251B-4DBC-B5C1-7552352DB745}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8EEE1A7-251B-4DBC-B5C1-7552352DB745}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8EEE1A7-251B-4DBC-B5C1-7552352DB745}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4FF8E2F2-6CD4-4026-626D-EF84B546B725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4FF8E2F2-6CD4-4026-626D-EF84B546B725}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4FF8E2F2-6CD4-4026-626D-EF84B546B725}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4FF8E2F2-6CD4-4026-626D-EF84B546B725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0E319A-7720-17DC-6016-9B92E348B3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0E319A-7720-17DC-6016-9B92E348B3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0E319A-7720-17DC-6016-9B92E348B3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0E319A-7720-17DC-6016-9B92E348B3A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
